@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "5d92",
+      "title": "Albert Einstein - 'Imagination is more important than knowledge.'",
+      "description": "Einstein emphasized the power of imagination in driving discovery and innovation. While knowledge is finite, imagination encircles the world and unlocks the limitless possibilities of what could be."
+    },
+    {
+      "id": "7a3f",
+      "title": "Maya Angelou - 'You may not control all the events that happen to you, but you can decide not to be reduced by them.'",
+      "description": "Angelou reminds us that while life presents challenges beyond our control, we retain the power over our attitude and resilience. Strength comes not from avoiding adversity, but from refusing to let it diminish our spirit."
+    },
+    {
+      "id": "b6d9",
+      "title": "Leonardo da Vinci - 'Simplicity is the ultimate sophistication.'",
+      "description": "Da Vinci believed that true mastery lies in making complex things appear simple. Whether in design, thought, or life, stripping away unnecessary complexity leads to clarity, elegance, and profound effectiveness."
+    },
+    {
+      "id": "e34b",
+      "title": "Rumi - 'The wound is the place where the light enters you.'",
+      "description": "This poetic reflection by Rumi teaches that our moments of pain and vulnerability often become opportunities for growth, wisdom, and transformation. It's through difficulty that we develop depth and resilience."
+    },
+    {
+      "id": "9cf0",
+      "title": "Steve Jobs - 'Stay hungry, stay foolish.'",
+      "description": "Jobs encouraged continuous curiosity and the courage to take unconventional risks. 'Stay hungry' means never settling for mediocrity, while 'stay foolish' is a call to remain open to new ideas, unafraid to make mistakes in pursuit of meaningful goals."
+    }
+  ]
+}
